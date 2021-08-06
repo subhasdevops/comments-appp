@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.commentBg-cont {
+  display: flex;
+  flex-direction: column;
+
+  margin-top: 10px;
+}
+.input-card {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.right-img {
+  width: 450px;
+}
+.button-comment {
+  color: white;
+  background-color: #0284c7;
+  margin-top: 5px;
+  border: 0px;
+  border-radius: 5px;
+  height: 30px;
+}
+
+.rule {
+  color: grey;
+  width: 90vw;
+
+  border-width: 1px;
+}
+.Comments-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin-left: 110px;
+}
+.comment-span {
+  background-color: #0284c7;
+  color: white;
+}
